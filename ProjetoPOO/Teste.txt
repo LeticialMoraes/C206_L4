@@ -1,0 +1,30 @@
++++ Aluno +++
+teste2
+1234
+25
+gea
+102
++++ Aluno +++
+teste
+3456
+22
+ges
+352
++++ Aluno +++
+Leticia Moraes
+022
+22
+ges
+352
++++ Aluno +++
+Joao Guilherme
+3216
+21
+gec
+364
++++ Aluno +++
+Jonas T
+789
+19
+gec
+356
